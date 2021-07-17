@@ -82,7 +82,7 @@ socks pass {
  
 Save, Now we create a user for the proxy:
  
-sudo useradd --shell / usr / sbin / nologin -m sockduser && sudo passwd sockduser
+sudo useradd --shell /usr/sbin/nologin -m sockduser && sudo passwd sockduser
  
 all that remains is to execute the command
  
